@@ -55,3 +55,6 @@ Technical Assistance services:
 EU, Balkan Countries Serbia / Belgrade, North Macedonia / Skopje, Lithuania, Latvia, Estonia, Chile: Santiago, Temuco, Coyhaique, Renca, Recoleta, Independencia, Valdivia, Argentina General Alvear, Ubajay, Brazil, Asia region: Mongolia: Ulaanbaatar +10 cities, Central Asia (Kazakhstan, Georgia, Kyrgyz Republic, Tajikistan, Turkmenistan, Uzbekistan), Ukraine, Columbia, Africa region, etc.
 
 **Dr. Romanas Savickas**
+Contact info
+LinkedIn:
+https://www.linkedin.com/in/romanassavickas/
