@@ -23,7 +23,9 @@ With a focus on energy efficiency, fossil fuel-based and renewable energy based 
 Technical Assistance services:
 
 **1. Project Design**
+
 **2. Technical and Coordination Support**
+
 **3. Support Private Sector Engagement**
 
 
@@ -59,6 +61,7 @@ EU, Balkan Countries Serbia / Belgrade, North Macedonia / Skopje, Lithuania, Lat
 **Dr. Romanas Savickas**
 
 Contact info
+
 LinkedIn:
 
 https://www.linkedin.com/in/romanassavickas/
