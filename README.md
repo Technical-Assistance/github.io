@@ -21,9 +21,11 @@ Technical assistance and support in the areas of Energy Transition, Digital Tran
 With a focus on energy efficiency, fossil fuel-based and renewable energy based projects, to provide a technical advisory support, holistic support to non government, public sector organisations (UN, UNOPS, UNEP, UNIDO, UNDP, UNECE, etc.) and national/local governments on financing and technical needs, capacity and skill development, and facilitation of dialogues in all related areas.
 
 Technical Assistance services:
+
 **1. Project Design**
 **2. Technical and Coordination Support**
 **3. Support Private Sector Engagement**
+
 
 **1. Project Design and Portfolio Development**
 •	Support in drafting and refinement of Terms of References (TOR) for technical assistance projects, incorporating technical, financial/economic, and stakeholder input, including:
