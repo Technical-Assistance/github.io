@@ -1,6 +1,6 @@
 # Technical Assistance
 
-Activities to increase Energy Efficiency and to tackle Climate Mitigation by:
+Provide and deliver activities to increase Energy Efficiency and to tackle Climate Mitigation by:
 Energy Efficiency, District Heating, District Cooling, Renewables Integration, Low Carbon Technologies, Buildings Efficiency, Digitalization, ESG, Green Hydrogen and other technologies:
 1. Collaboration with National / Local Governments to increase Energy Efficiency and reduce GHG emissions.
 2. Creation, Engagement and Coordination of Public-Private-Academia Stakeholders group to better understand Climate, Technical and Financial issues.
@@ -17,10 +17,10 @@ Energy Efficiency, District Heating, District Cooling, Renewables Integration, L
 13. Paris Agreement Article 6.2 and 6.4, Carbon Markets, Clean Development Mechanism CDM.
 
 **Technical Assistance services.**
-Technical assistance and support in the areas of Energy Transition, Digital Transformations, Sustainable Environmental Management, Climate Change, Waste Management, Rule of Law and Access to Justice, Water through HR, procurement, construction, contract management, fund, program management services, development, delivery and management of the portfolio of engagements in the selected country.
-With a focus on energy efficiency, fossil fuel-based and renewable energy based projects, to provide a technical advisory support, holistic support to non government, public sector organisations (UN, UNOPS, UNEP, UNIDO, UNDP, UNECE, etc.) and national/local governments on financing and technical needs, capacity and skill development, and facilitation of dialogues in all related areas.
+Provide and deliver technical assistance and support in the areas of Energy Transition, Digital Transformations, Sustainable Environmental Management, Climate Change, Waste Management, Rule of Law and Access to Justice, Water through HR, procurement, construction, contract management, fund, program management services, development, delivery and management of the portfolio of engagements in the selected country.
+With a focus on energy efficiency, fossil fuel-based and renewable energy based projects, provide a technical advisory support, holistic support to non government, public sector organisations (UN, UNOPS, UNEP, UNIDO, UNDP, UNECE, etc.) and national/local governments on financing and technical needs, capacity and skill development, and facilitation of dialogues in all related areas.
 
-Technical Assistance services:
+# Technical Assistance services:
 
 **1. Project Design**
 
@@ -41,8 +41,8 @@ Technical Assistance services:
 
 **2. Technical Assistance and Coordination Support**
 •	Provide technical and operational support to the implementing partners/consultants, as necessary (linking them with stakeholders, strategizing on the conduct of activities, and reviewing project outputs).  
-•	To participate in meetings with implementing partners, progress and strategy meetings, engagement with other stakeholders meetings.
-•	Support other activities and projects (participation in workshops or stakeholder engagement, providing feedback on project outputs, and other tasks).
+•	Participate in meetings with implementing partners, progress and strategy meetings, engagement with other stakeholders meetings.
+•	Provide support other activities and projects (participation in workshops or stakeholder engagement, providing feedback on project outputs, and other tasks).
 •	Inform on potential issues or risks on any of the technical assistance projects to devise solutions.
 
 **3. Support Stakeholders’ and Private Sector Engagement**
